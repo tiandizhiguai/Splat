@@ -14,7 +14,7 @@ import org.cgw.splat.utils.ReflectionUtils;
  * 框架默认的ServiceObjectFactory。<br/>
  * 当没有配置任何ServiceObjectFactory时，框架会默认使用DefaultServiceObjectFactory。
  * 
- * @author guowei.cgw 2015年6月16日 下午2:23:10
+ * @author caoguowei 2015年6月16日 下午2:23:10
  */
 public class DefaultServiceObjectFactory implements ServiceObjectFactory {
 

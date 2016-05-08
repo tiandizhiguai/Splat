@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 /**
  * 通过正则表达是匹配文件。
  * 
- * @author guowei.cgw 2015年6月5日 下午2:08:22
+ * @author caoguowei 2015年6月5日 下午2:08:22
  */
 public class NameMatchingFilePatternUtils {
 

@@ -3,7 +3,7 @@ package org.cgw.splat.config;
 /**
  * 配置文件常量配置项模型。
  * 
- * @author guowei.cgw 2015年6月5日 下午3:43:12
+ * @author caoguowei 2015年6月5日 下午3:43:12
  */
 public class ConfigurationItem {
 

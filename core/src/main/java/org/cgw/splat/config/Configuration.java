@@ -8,7 +8,7 @@ import org.cgw.splat.factory.ServiceObjectFactory;
 /**
  * 框架配置信息模型。
  * 
- * @author guowei.cgw 2015年6月16日 下午1:18:54
+ * @author caoguowei 2015年6月16日 下午1:18:54
  */
 public class Configuration {
 

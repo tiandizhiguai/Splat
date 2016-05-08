@@ -15,7 +15,7 @@ import org.cgw.splat.xml.support.DefaultConfigurableContainer;
 /**
  * Http请求处理器。
  * 
- * @author guowei.cgw 2015年6月12日 下午6:57:35
+ * @author caoguowei 2015年6月12日 下午6:57:35
  */
 public class DefaultServiceExecutor implements ServiceExecutor {
 
@@ -31,7 +31,11 @@ public class DefaultServiceExecutor implements ServiceExecutor {
         Object context = null;
         try {
             context = targetMethod.invoke(targetService, methodParameters);
-        } catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException e) {
+        } catch (IllegalAccessException e) {
+            throw new SplatException(e);
+        } catch (InvocationTargetException e) {
+            throw new SplatException(e);
+        } catch (IllegalArgumentException e) {
             throw new SplatException(e);
         }
 

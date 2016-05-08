@@ -4,7 +4,7 @@ package org.cgw.splat.constant;
  * 
  * 返回客户端的数据格式定义。 
  * 
- * @author guowei.cgw 2015年6月14日 下午7:45:56
+ * @author caoguowei 2015年6月14日 下午7:45:56
  */
 public enum ResponseDataType {
     

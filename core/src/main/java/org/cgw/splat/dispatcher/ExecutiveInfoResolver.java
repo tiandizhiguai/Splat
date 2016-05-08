@@ -5,7 +5,7 @@ import org.cgw.splat.config.Configuration;
 /**
  * 创建目标服务和目标方法的抽象处理器。
  * 
- * @author guowei.cgw 2015年5月23日 下午2:21:37
+ * @author caoguowei 2015年5月23日 下午2:21:37
  */
 public interface ExecutiveInfoResolver {
 

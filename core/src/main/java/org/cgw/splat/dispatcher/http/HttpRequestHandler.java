@@ -18,7 +18,7 @@ import org.cgw.splat.utils.HttpRequestUtils;
 /**
  * 解析Http请求信息模型。
  * 
- * @author guowei.cgw 2015年5月21日 下午7:18:43
+ * @author caoguowei 2015年5月21日 下午7:18:43
  */
 public class HttpRequestHandler implements RequestHandler<HttpServletRequest, HttpServletResponse> {
 

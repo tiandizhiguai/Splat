@@ -10,7 +10,7 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
 /**
  * 通过Spring容器创建执行服务对象的工厂。
  * 
- * @author guowei.cgw 2015年5月31日 下午5:15:40
+ * @author caoguowei 2015年5月31日 下午5:15:40
  */
 public class SpringServiceObjectFactory implements ServiceObjectFactory {
 

@@ -23,7 +23,7 @@ import org.xml.sax.SAXException;
 /**
  * 配置文件解析器帮助类。
  * 
- * @author guowei.cgw 2015年6月9日 下午4:37:16
+ * @author caoguowei 2015年6月9日 下午4:37:16
  */
 public class ConfigurationFileResolverUtils {
 

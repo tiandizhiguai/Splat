@@ -3,7 +3,7 @@ package org.cgw.splat.exception;
 /**
  * 框架的运行时异常。
  * 
- * @author guowei.cgw 2015年6月12日 上午10:49:04
+ * @author caoguowei 2015年6月12日 上午10:49:04
  */
 public class SplatException extends RuntimeException {
 

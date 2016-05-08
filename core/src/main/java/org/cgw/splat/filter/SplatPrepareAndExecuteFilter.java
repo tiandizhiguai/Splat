@@ -19,7 +19,7 @@ import org.cgw.splat.dispatcher.http.HttpRequestHandler;
 /**
  * 框架的入口，提供两个功能：1.初始化框架配置信息和组件； 2.处理用户的请求。
  * 
- * @author guowei.cgw 2015年6月8日 下午2:57:10
+ * @author caoguowei 2015年6月8日 下午2:57:10
  */
 public class SplatPrepareAndExecuteFilter extends AbstractPrepareAndExecuteEntrance implements Filter {
 

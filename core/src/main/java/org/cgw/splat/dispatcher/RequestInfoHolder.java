@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Http请求信息模型
  * 
- * @author guowei.cgw 2015年5月21日 下午7:38:06
+ * @author caoguowei 2015年5月21日 下午7:38:06
  */
 public class RequestInfoHolder {
 

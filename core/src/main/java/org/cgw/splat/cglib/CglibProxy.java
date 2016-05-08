@@ -9,7 +9,7 @@ import net.sf.cglib.proxy.MethodProxy;
 /**
  * 通过cglib的反射技术创建代理对象。
  * 
- * @author guowei.cgw 2015年6月8日 下午8:17:02
+ * @author caoguowei 2015年6月8日 下午8:17:02
  */
 public class CglibProxy implements MethodInterceptor {
 

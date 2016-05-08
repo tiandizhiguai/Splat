@@ -20,7 +20,7 @@ import org.cgw.splat.factory.ServiceObjectFactory;
 /**
  * 创建目标服务和目标方法的处理器。
  * 
- * @author guowei.cgw 2015年5月23日 下午2:21:37
+ * @author caoguowei 2015年5月23日 下午2:21:37
  */
 public class DefaultExecutiveInfoResolver implements ExecutiveInfoResolver {
 

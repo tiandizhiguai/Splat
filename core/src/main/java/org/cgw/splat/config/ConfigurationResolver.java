@@ -19,7 +19,7 @@ import org.cgw.splat.utils.ConfigurationFileResolverUtils;
 /**
  * 配置文件解析器。
  * 
- * @author guowei.cgw 2015年6月4日 下午4:31:37
+ * @author caoguowei 2015年6月4日 下午4:31:37
  */
 public class ConfigurationResolver {
 
