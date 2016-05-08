@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<splat>
+    <property name="scanPackage" value="org.cgw.splat.test"/>
+</splat>

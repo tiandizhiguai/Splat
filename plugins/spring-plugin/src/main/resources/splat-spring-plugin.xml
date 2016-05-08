@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<splat>
+	<plugin name="spring" value="org.cgw.splat.spring.SpringServiceObjectFactory"/>
+</splat>
